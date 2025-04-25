@@ -6,16 +6,16 @@
 
 ---
 
-### 🚀 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://i.imgur.com/VOHkhaz.png" width="40" alt="Bloc"/>
-  <img src="https://i.imgur.com/s7Azqra.png" width="40" alt="Riverpod"/>
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.svg" width="40" alt="Bloc"/>
+  <img src="https://raw.githubusercontent.com/rrousselGit/riverpod/master/resources/logo.svg" width="40" alt="Riverpod"/>
 </p>
+
 
 
 
