@@ -1,10 +1,12 @@
 <h1 align="center">👋 Welcome to IceUnite's GitHub</h1>
 
 <p align="center">
-  A passionate Flutter developer crafting elegant solutions to complex problems.
+  🚀 A passionate <strong>Flutter Developer</strong> crafting elegant solutions to complex problems.
 </p>
 
 ---
+
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
@@ -18,11 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
 </p>
 
-
-
-
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -35,16 +32,16 @@
 
 ### 🧠 About Me
 
-> 🚀 I'm a **Flutter Developer** passionate about building beautiful applications.  
-> I use technologies like **Python**, **Dart**, **Flutter**, **HTML**, **CSS**, **JS**, and tools like **Postman**, **Swagger**.  
-> I love state management with **Bloc**, **Cubit**, and **Riverpod** and follow **Clean Architecture** principles.
+> 💡 I'm a **Flutter Developer** passionate about building beautiful and scalable applications.  
+> 🛠️ Technologies I use: **Dart**, **Flutter**, **Python**, 
+> ⚙️ Tools: **Postman**, **Swagger**, **Figma**, **Git**, **Firebase**, **SQLite**  
+> 🧩 Favorite State Management: **Bloc**, **Cubit**, **Riverpod**  
+> 🧱 I follow **Clean Architecture** principles to ensure maintainability and clarity in my code.
 
 ---
 
 ### 📬 Let’s connect!
 
-- Telegram: [@IceUnite](https://t.me/Ice_Unite)
-- VK: [IceUnite_VK](https://vk.com/ice_unite)
-
-
-
+- 📱 Telegram: [@IceUnite](https://t.me/Ice_Unite)  
+- 🌐 VK: [IceUnite_VK](https://vk.com/ice_unite)  
+- 💻 GitHub: [IceUnite](https://github.com/IceUnite)
