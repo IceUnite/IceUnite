@@ -22,6 +22,18 @@
 
 ---
 
+### 🧠 About Me
+
+> 👨‍💻 I'm a 24-year-old **Flutter Developer** with 2 years of professional experience.  
+> 🎓 Graduated from **MTUCI** (Moscow Technical University of Communications and Informatics).  
+> 💡 Passionate about building beautiful, scalable, and efficient applications.  
+> 🛠️ Technologies I use: **Python**, **Dart**, **Flutter**, **HTML**, **CSS**, **JavaScript**  
+> ⚙️ Tools: **Postman**, **Swagger**, **Figma**, **Git**, **Firebase**, **SQLite**, **Shared Preferences**  
+> 🧩 Favorite State Management: **Bloc**, **Cubit**, **Riverpod**  
+> 🧱 I follow **Clean Architecture** principles to ensure maintainability and clarity in my code.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -30,13 +42,11 @@
 
 ---
 
-### 🧠 About Me
+### 🥋 Codewars Stats
 
-> 💡 I'm a **Flutter Developer** passionate about building beautiful and scalable applications.  
-> 🛠️ Technologies I use: **Dart**, **Flutter**, **Python**, 
-> ⚙️ Tools: **Postman**, **Swagger**, **Figma**, **Git**, **Firebase**, **SQLite**  
-> 🧩 Favorite State Management: **Bloc**, **Cubit**, **Riverpod**  
-> 🧱 I follow **Clean Architecture** principles to ensure maintainability and clarity in my code.
+<p align="center">
+  <img src="https://www.codewars.com/users/IceUnite/badges/large" alt="Codewars badge"/>
+</p>
 
 ---
 
