@@ -40,7 +40,8 @@
 
 ### 📬 Let’s connect!
 
-- Telegram: [@IceUnite](https://t.me/yourhandle](https://t.me/Ice_Unite))
-- VK: [@IceUnite_VK](https://t.me/yourhandle](https://t.me/Ice_Unite](https://vk.com/ice_unite)))
+- Telegram: [@IceUnite](https://t.me/Ice_Unite)
+- VK: [IceUnite_VK](https://vk.com/ice_unite)
 - GitHub: [IceUnite](https://github.com/IceUnite)
+
 
