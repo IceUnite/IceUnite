@@ -37,7 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IceUnite&show_icons=true&theme=tokyonight&count_private=true" width="450"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=IceUnite&show_icons=true&theme=tokyonight&count_private=true" width="450"/> -->
+  <p align="center"> <img src="https://img.shields.io/badge/⭐_Total_Stars-12-8e44ad?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/🔄_Total_Commits-320-2980b9?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/🚀_Total_PRs-55-27ae60?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/🐞_Total_Issues-40-e67e22?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/📆_Last_Year_Contributions-15-f39c12?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/🏅_Grade-B%2B-c0392b?style=for-the-badge&logo=codewars&logoColor=white" /> </p>
 </p>
 
 ---
