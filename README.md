@@ -27,10 +27,10 @@
 > 👨‍💻 I'm a 24-year-old **Flutter Developer** with 2 years of professional experience.  
 > 🎓 Graduated from **MTUCI** (Moscow Technical University of Communications and Informatics).  
 > 💡 Passionate about building beautiful, scalable, and efficient applications.  
-> 🛠️ Technologies I use: **Dart**, **Flutter**, **Python**
-> ⚙️ Tools: **Postman**, **Swagger**, **Figma**, **Git**, **Firebase**, **SQLite**, **Shared Preferences**
+> 🛠️ Technologies I use: **Dart**, **Flutter**, **Python**   
+> ⚙️ Tools: **Postman**, **Swagger**, **Figma**, **Git**, **Firebase**, **SQLite**, **Shared Preferences**   
 > 🧩 Favorite State Management: **Bloc**, **Cubit**, **Riverpod**  
-> 🧱 I follow **Clean Architecture** principles to ensure maintainability and clarity in my code.
+> 🧱 I follow **Clean Architecture** principles to ensure maintainability and clarity in my code.  
 
 ---
 
