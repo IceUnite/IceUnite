@@ -40,7 +40,7 @@
 
 ### 📬 Let’s connect!
 
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- Portfolio: [iceunite.github.io](https://iceunite.github.io)
+- Telegram: [@yourhandle](https://t.me/yourhandle](https://t.me/Ice_Unite))
+- VK: [@yourhandle](https://t.me/yourhandle](https://t.me/Ice_Unite](https://vk.com/ice_unite)))
 - GitHub: [IceUnite](https://github.com/IceUnite)
 
