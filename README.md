@@ -55,4 +55,3 @@
 
 - 📱 Telegram: [@IceUnite](https://t.me/Ice_Unite)  
 - 🌐 VK: [IceUnite_VK](https://vk.com/ice_unite)  
-- 💻 GitHub: [IceUnite](https://github.com/IceUnite)
